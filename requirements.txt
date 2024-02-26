@@ -1,0 +1,9 @@
+flask
+joblib
+nltk
+pandas
+requests
+scikit-learn==1.2.2
+streamlit
+matplotlib
+seaborn
